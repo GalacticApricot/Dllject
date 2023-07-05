@@ -14,4 +14,4 @@ Simple Dll injector for windows 10
 
 Discord: galacticapricot
 Email: me@galacticapricot.dev
-Website: new.galacticapricot.dev
+Website: https://new.galacticapricot.dev
